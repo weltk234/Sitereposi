@@ -1,3 +1,3 @@
 # Tomas Alejandro Gonzalez Sojo 
 
-##Elaboracion mi portafolio agregar personal para agregar mis proyectos 
+## Elaboracion mi portafolio agregar personal para agregar mis proyectos 
